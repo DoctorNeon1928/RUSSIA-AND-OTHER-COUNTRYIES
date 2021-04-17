@@ -1,0 +1,30 @@
+body{
+    background-color: black
+}
+
+#picture{
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/375px-Flag_of_Russia.svg.png);
+}
+
+#text{
+    width: 70vw;
+    color: blue;
+}
+
+#picture2{
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/375px-Flag_of_Ukraine.svg.png);
+}
+
+#text2{
+    width: 70vw;
+    color: yellow;
+}
+
+#picture3{
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/375px-Flag_of_Belarus.svg.png);
+}
+
+#text3{
+    width: 70vw;
+    color: green;
+}
